@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- :telescope: I’m working as a Frontend Web Developer and contributing to the frontend and backend of web applications.
+- :telescope: I’m working as a Frontend Web Developer.
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I play Tennis, Skateboard and read tech articles.
+- :zap: In my free time, I play Tennis, Skateboard, Code and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-olly-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ollypethick/)
 
