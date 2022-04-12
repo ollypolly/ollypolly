@@ -6,7 +6,7 @@
 
 - :zap: In my free time, I play Tennis, Skateboard, Code and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-olly-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ollypethick/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-olly-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ollypethick/)
 
 <!--
 **ollypolly/ollypolly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
