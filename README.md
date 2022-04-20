@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<a href="https://www.instagram.com/_ollyp/">
+  <img align="left" alt="Olly's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+</a>
+<a href="https://www.linkedin.com/ollypethick/">
+  <img align="left" alt="Olly's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+<br />
 
 - :telescope: I’m working as a Frontend Web Developer.
 
