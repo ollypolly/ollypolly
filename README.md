@@ -19,6 +19,6 @@ Hiya, I'm [Olly Pethick](https://ollys.work/) a Frontend Web Developer with a pa
 </p>
 
 ### Tech Stack
-<img style="filter: invert(1);" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/react.svg" />
+[url=https://cdnlogo.com/logo/react_22568.html][img]https://cdn.cdnlogo.com/logos/r/63/react.svg[/img][/url]
 
 
