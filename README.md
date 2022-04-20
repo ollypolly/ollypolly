@@ -11,3 +11,5 @@
 Hiya, I'm [Olly Pethick](https://ollys.work/) a Frontend Web Developer with a passion for creating elegant UX. I have a BSc in Computer Science from Loughborough University, where I ran Loughborough TechSoc for 2 years. When I'm not working or coding on a personal web project, I play Tennis, Skateboard, Run and read tech articles on DEV.to, Medium and CSS tricks.
 
 [![Olly's GitHub stats](https://github-readme-stats.vercel.app/api?username=ollypolly)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ollypolly&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
