@@ -20,13 +20,13 @@ Hiya, I'm [Olly Pethick](https://ollys.work/) a Frontend Web Developer with a pa
 
 ### Tech Stack
 <p align="center">
-     <a href="https://reactjs.org/"><img alt="React.js" height="35" src="https://cdn.cdnlogo.com/logos/r/63/react.svg"></a>
-     <a href="https://reactjs.org/"><img alt="Redux" height="35" src="https://cdn.cdnlogo.com/logos/r/69/redux.svg"></a>
-     <a href="https://reactjs.org/"><img alt="TypeScript" height="35" src="https://cdn.cdnlogo.com/logos/t/96/typescript.svg"></a>
-     <a href="https://reactjs.org/"><img alt="MUI" height="35" src="https://cdn.cdnlogo.com/logos/m/48/material-ui.svg"></a>
-     <a href="https://reactjs.org/"><img alt="Next.js" height="35" src="https://cdn.cdnlogo.com/logos/n/80/next-js.svg"></a>
-     <a href="https://reactjs.org/"><img alt="Firebase" src="https://cdn.cdnlogo.com/logos/f/48/firebase.svg"></a>
-     <a href="https://reactjs.org/"><img alt="React Native" height="35" src="https://cdn.cdnlogo.com/logos/r/63/react.svg"></a>
+     <a href="https://reactjs.org/"><img alt="React.js" height="40" src="https://cdn.cdnlogo.com/logos/r/63/react.svg"></a>&nbsp;
+     <a href="https://reactjs.org/"><img alt="Redux" height="40" src="https://cdn.cdnlogo.com/logos/r/69/redux.svg"></a>&nbsp;
+     <a href="https://reactjs.org/"><img alt="TypeScript" height="40" src="https://cdn.cdnlogo.com/logos/t/96/typescript.svg"></a>&nbsp;
+     <a href="https://reactjs.org/"><img alt="MUI" height="40" src="https://cdn.cdnlogo.com/logos/m/48/material-ui.svg"></a>&nbsp;
+     <a href="https://reactjs.org/"><img alt="Next.js" height="40" src="https://cdn.cdnlogo.com/logos/n/80/next-js.svg"></a>&nbsp;
+     <a href="https://reactjs.org/"><img alt="Firebase" height="40" src="https://cdn.cdnlogo.com/logos/f/48/firebase.svg"></a>&nbsp;
+     <a href="https://reactjs.org/"><img alt="React Native" height="40" src="https://cdn.cdnlogo.com/logos/r/63/react.svg"></a>
 </p>
 
 
