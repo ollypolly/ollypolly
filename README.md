@@ -8,4 +8,4 @@
 
 <br />
 
-Hiya, I'm [Olly Pethick](https://ollys.work/) a Frontend Web Developer with a passion for good UX. I have a BSc in Computer Science. When I'm not working on a personal web project, I play Tennis, Skateboard, read tech articles to further my knowledge.
+Hiya, I'm [Olly Pethick](https://ollys.work/) a Frontend Web Developer with a passion for creating elegant UX. I have a BSc in Computer Science from Loughborough University, where I ran Loughborough TechSoc for 2 years. When I'm not working or coding on a personal web project, I play Tennis, Skateboard, Run and read tech articles on DEV.to, Medium and CSS tricks.
