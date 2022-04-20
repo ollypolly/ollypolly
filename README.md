@@ -14,5 +14,5 @@ Hiya, I'm [Olly Pethick](https://ollys.work/) a Frontend Web Developer with a pa
 <p align="center">
 <img width="450" align="center" src="https://github-readme-stats.vercel.app/api?username=ollypolly&theme=radical&show_icons=true&line_height=21" alt="ollypolly's Github Stats" />
 <img width="340" height="155" align="center" 
-     src="hthttps://github-readme-stats.vercel.app/api/top-langs/?username=ollypolly&layout=compact&theme=radical&langs_count=6&line_height=27" />
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ollypolly&layout=compact&theme=radical&langs_count=6&line_height=27" />
 </p>
