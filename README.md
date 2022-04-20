@@ -16,3 +16,5 @@ Hiya, I'm [Olly Pethick](https://ollys.work/) a Frontend Web Developer with a pa
 <img width="340" height="155" align="center" 
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ollypolly&layout=compact&theme=react&langs_count=6&line_height=27" />
 </p>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
