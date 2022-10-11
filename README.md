@@ -5,7 +5,6 @@
 [![Twitter Badge](https://img.shields.io/badge/-@BoyzGottaDream-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/BoyzGottaDream)](https://twitter.com/BoyzGottaDream)
 [![Instagram Badge](https://img.shields.io/badge/-@_ollyp-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_ollyp/)](https://instagram.com/_ollyp)
 [![Gmail Badge](https://img.shields.io/badge/-ollypethick-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ollypethick@gmail.com)](mailto:ollypethick@gmail.com)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=black&right_color=green)
 
 <br />
 
