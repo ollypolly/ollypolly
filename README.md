@@ -10,13 +10,6 @@
 
 Hiya, I'm [Olly Pethick](https://ollys.work/) a Frontend Web Developer with a passion for creating elegant UX. I have a BSc in Computer Science from Loughborough University, where I ran [Loughborough TechSoc](https://linktr.ee/codelab_lboro) for 2 years. When I'm not working or coding on a personal web project, I play tennis, skateboard, run and read tech articles (favourites include DEV.to, Medium and CSS tricks).
 
-### 🚀 Quick Stats
-<p align="center">
-<img width="450" align="center" src="https://github-readme-stats.vercel.app/api?username=ollypolly&theme=react&show_icons=true&line_height=21" alt="ollypolly's Github Stats" />
-<img width="340" height="155" align="center" 
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ollypolly&layout=compact&theme=react&langs_count=6&line_height=27" />
-</p>
-
 ### Tech Stack
 <p align="center">
      <a href="https://reactjs.org/"><img alt="React.js" height="40" src="https://cdn.cdnlogo.com/logos/r/63/react.svg"></a>&nbsp;
@@ -26,5 +19,13 @@ Hiya, I'm [Olly Pethick](https://ollys.work/) a Frontend Web Developer with a pa
      <a href="https://nextjs.org/"><img alt="Next.js" height="40" src="https://cdn.cdnlogo.com/logos/n/80/next-js.svg"></a>&nbsp;
      <a href="https://firebase.google.com/"><img alt="Firebase" height="40" src="https://cdn.cdnlogo.com/logos/f/48/firebase.svg"></a>&nbsp;
 </p>
+
+### 🚀 Quick Stats
+<p align="center">
+<img width="450" align="center" src="https://github-readme-stats.vercel.app/api?username=ollypolly&theme=react&show_icons=true&line_height=21" alt="ollypolly's Github Stats" />
+<img width="340" height="155" align="center" 
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ollypolly&layout=compact&theme=react&langs_count=6&line_height=27" />
+</p>
+
 
 
