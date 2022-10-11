@@ -10,7 +10,7 @@
 
 Hiya, I'm [Olly Pethick](https://ollys.work/) a Frontend Web Developer with a passion for creating elegant UX. I have a BSc in Computer Science from Loughborough University, where I ran [Loughborough TechSoc](https://linktr.ee/codelab_lboro) for 2 years. When I'm not working or coding on a personal web project, I play tennis, skateboard, run and read tech articles (favourites include DEV.to, Medium and CSS tricks).
 
-### Tech Stack
+### 📚 Tech Stack
 <p align="center">
      <a href="https://reactjs.org/"><img alt="React.js" height="40" src="https://cdn.cdnlogo.com/logos/r/63/react.svg"></a>&nbsp;
      <a href="https://redux-toolkit.js.org/"><img alt="Redux" height="40" src="https://cdn.cdnlogo.com/logos/r/69/redux.svg"></a>&nbsp;
