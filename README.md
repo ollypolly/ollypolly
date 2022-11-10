@@ -1,4 +1,4 @@
-### Hiya, I'm Olly <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hiya, I'm Olly 
 
 [![Linkedin Badge](https://img.shields.io/badge/-ollypethick-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ollypethick/)](https://www.linkedin.com/in/ollypethick/)
 [![Website Badge](https://img.shields.io/badge/-ollys.work-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://ollys.work)](https://ollys.work)
