@@ -8,7 +8,7 @@
 
 <br />
 
-Hiya, I'm [Olly Pethick](https://ollys.work/) a Frontend Web Developer with a passion for creating elegant UX. I have a BSc in Computer Science from Loughborough University, where I ran [Loughborough TechSoc](https://linktr.ee/codelab_lboro) for 2 years. When I'm not working or coding on a personal web project, I play tennis, skateboard, run and read tech articles (favourites include DEV.to, Medium and CSS tricks).
+I'm [Olly Pethick](https://ollys.work/) a Frontend Web Developer with a passion for creating elegant UX. I have a BSc in Computer Science from Loughborough University, where I ran [Loughborough TechSoc](https://linktr.ee/codelab_lboro) for 2 years.
 
 ### 🚀 Quick Stats
 <p align="center">
