@@ -3,16 +3,13 @@
 [![Linkedin Badge](https://img.shields.io/badge/-ollypethick-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ollypethick/)](https://www.linkedin.com/in/ollypethick/)
 [![Website Badge](https://img.shields.io/badge/-ollys.work-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://ollys.work)](https://ollys.work)
 [![Gmail Badge](https://img.shields.io/badge/-ollypethick-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ollypethick@gmail.com)](mailto:ollypethick@gmail.com)
-
 [![Blog Badge](https://img.shields.io/badge/-blog.olly.live-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://blog.olly.live)](https://blog.olly.live)
 
 <br />
 
-I'm [Olly Pethick](https://ollys.work/) a Frontend Web Developer with a passion for creating elegant UX. I have a BSc in Computer Science from Loughborough University, where I ran [Loughborough TechSoc](https://linktr.ee/codelab_lboro) for 2 years.
+I'm [Olly Pethick](https://ollys.work/) a Frontend Web Developer with a passion for creating elegant UX. I have a BSc in Computer Science from Loughborough University, where I ran [Loughborough TechSoc](https://linktr.ee/codelab_lboro) for 2 years. Since then I've accumulated over 6 years exploring the web development landscape in both a professional and personal capacity.
 
-### 🚀 Quick Stats
 <p align="center">
-<img width="450" align="center" src="https://github-readme-stats.vercel.app/api?username=ollypolly&theme=react&show_icons=true&line_height=21" alt="ollypolly's Github Stats" />
 <img width="340" height="155" align="center" 
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ollypolly&layout=compact&theme=react&langs_count=6&line_height=27" />
 </p>
