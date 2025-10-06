@@ -11,10 +11,10 @@ I'm [Olly Pethick](https://ollys.work/) a Frontend Web Developer with a passion 
 <a href="https://linktr.ee/codelab_lboro">Loughborough TechSoc</a> for 2 years. 
 Since then I've accumulated over 
 <span style="vertical-align: middle;">
-  <img src="https://ollypolly--3d8524eca2e711f0b2a30224a6c84d84.web.val.run" 
+  <img src="https://ollypolly--3d8524eca2e711f0b2a30224a6c84d84.web.val.run?year=2019" 
        alt="years" height="30"/>
 </span> 
-exploring the web development landscape in both a professional and personal capacity.
+years of experience exploring the web development landscape in both a professional and personal capacity.
 
 
 <p align="center">
