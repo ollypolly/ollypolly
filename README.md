@@ -7,7 +7,15 @@
 
 <br />
 
-I'm [Olly Pethick](https://ollys.work/) a Frontend Web Developer with a passion for creating elegant UX. I have a BSc in Computer Science from Loughborough University, where I ran [Loughborough TechSoc](https://linktr.ee/codelab_lboro) for 2 years. Since then I've accumulated over 6 years of experience exploring the web development landscape in both a professional and personal capacity.
+I'm [Olly Pethick](https://ollys.work/) a Frontend Web Developer with a passion for creating elegant UX. I have a BSc in Computer Science from Loughborough University, where I ran 
+<a href="https://linktr.ee/codelab_lboro">Loughborough TechSoc</a> for 2 years. 
+Since then I've accumulated over 
+<span style="vertical-align: middle;">
+  <img src="https://ollypolly--3d8524eca2e711f0b2a30224a6c84d84.web.val.run" 
+       alt="years" height="30"/>
+</span> 
+exploring the web development landscape in both a professional and personal capacity.
+
 
 <p align="center">
 <img width="340" height="155" align="center" 
