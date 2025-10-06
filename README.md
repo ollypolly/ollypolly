@@ -12,7 +12,7 @@ I'm [Olly Pethick](https://ollys.work/) a Frontend Web Developer with a passion 
 Since then I've accumulated over 
 <span style="vertical-align: middle;">
   <img src="https://ollypolly--3d8524eca2e711f0b2a30224a6c84d84.web.val.run?year=2019" 
-       alt="years" height="30"/>
+       alt="years" height="40"/>
 </span> 
 years of experience exploring the web development landscape in both a professional and personal capacity.
 
