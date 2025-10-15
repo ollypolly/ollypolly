@@ -7,9 +7,12 @@
 
 <br />
 
-I'm [Olly Pethick](https://ollys.work/) a Frontend Web Developer with a passion for creating elegant UX. I have a BSc in Computer Science from Loughborough University, where I ran 
-<a href="https://linktr.ee/codelab_lboro">Loughborough TechSoc</a> for 2 years from 2017 - 2019. 
-Since then I've accumulated over 
+I'm [Olly Pethick](https://ollys.work/) a Frontend Web Developer with a passion for creating elegant 💅 and delightful ✨ user experience.
+
+I started my JavaScript journey during my year out in 2015 and covered my poor Macbook in numerous stickers by attending as many hackathons as possible. This led me to discover React, ever since I've been aiming to expand my knowledge of the entire JavaScript stack, from framework to runtime.
+
+In 2019 I gained a BSc in Computer Science from Loughborough University, where I ran 
+<a href="https://linktr.ee/codelab_lboro">Loughborough TechSoc</a> for 2 years from 2017 - 2019. Since then I've accumulated over 
 <span style="vertical-align: middle;">
   <img src="https://ollypolly--3d8524eca2e711f0b2a30224a6c84d84.web.val.run?year=2019&retire=2062" 
        alt="years" height="40"/>
