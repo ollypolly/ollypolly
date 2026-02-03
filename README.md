@@ -20,10 +20,3 @@ In 2019 I gained a BSc in Computer Science from Loughborough University, where I
 years of experience exploring the web development landscape in both a professional and personal capacity.
 
 
-<p align="center">
-<img width="340" height="155" align="center" 
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ollypolly&layout=compact&theme=react&langs_count=6&line_height=27" />
-</p>
-
-
-
